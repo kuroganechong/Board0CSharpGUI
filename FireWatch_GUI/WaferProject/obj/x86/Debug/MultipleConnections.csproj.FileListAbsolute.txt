@@ -490,3 +490,11 @@ C:\Users\Administrator\Downloads\230216_SCDF_Firewatch\230216_SCDF_Firewatch\SCD
 C:\Users\NTU\Downloads\230220_SCDF_Firewatch\230220_SCDF_Firewatch\FireWatch_GUI\WaferProject\obj\x86\Debug\MultipleConnections.csproj.AssemblyReference.cache
 C:\Users\NTU\Downloads\230220_SCDF_Firewatch\230220_SCDF_Firewatch\FireWatch_GUI\WaferProject\obj\x86\Debug\WaferProject.exe
 C:\Users\NTU\Downloads\230220_SCDF_Firewatch\230220_SCDF_Firewatch\FireWatch_GUI\WaferProject\obj\x86\Debug\WaferProject.pdb
+C:\Users\NTU\Downloads\230220_SCDF_Firewatch\230220_SCDF_Firewatch\FireWatch_GUI\WaferProject\bin\Debug\WaferProject.exe
+C:\Users\NTU\Downloads\230220_SCDF_Firewatch\230220_SCDF_Firewatch\FireWatch_GUI\WaferProject\bin\Debug\WaferProject.pdb
+C:\Users\NTU\Downloads\230220_SCDF_Firewatch\230220_SCDF_Firewatch\FireWatch_GUI\WaferProject\bin\Debug\SlimDX.pdb
+C:\Users\NTU\Downloads\230220_SCDF_Firewatch\230220_SCDF_Firewatch\FireWatch_GUI\WaferProject\bin\Debug\SlimDX.xml
+C:\Users\NTU\Downloads\230220_SCDF_Firewatch\230220_SCDF_Firewatch\FireWatch_GUI\WaferProject\obj\x86\Debug\WaferProject.Form1.resources
+C:\Users\NTU\Downloads\230220_SCDF_Firewatch\230220_SCDF_Firewatch\FireWatch_GUI\WaferProject\obj\x86\Debug\WaferProject.Properties.Resources.resources
+C:\Users\NTU\Downloads\230220_SCDF_Firewatch\230220_SCDF_Firewatch\FireWatch_GUI\WaferProject\obj\x86\Debug\MultipleConnections.csproj.GenerateResource.cache
+C:\Users\NTU\Downloads\230220_SCDF_Firewatch\230220_SCDF_Firewatch\FireWatch_GUI\WaferProject\obj\x86\Debug\MultipleConnections.csproj.CoreCompileInputs.cache

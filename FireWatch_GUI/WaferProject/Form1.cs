@@ -3142,8 +3142,8 @@ namespace WaferProject
                         Double Redcolorval;
                         Double tempershowt;
                         tempershowt = IRimage8x8[i];
-                        Temperatureshowmin = Convert.ToSingle(tbTemperaturmin.Text); // Huu Duoc
-                        Temperatureshowmax = Convert.ToSingle(tbTemperaturemax.Text);
+                        Temperatureshowmin = Convert.ToSingle(String.IsNullOrEmpty(tbTemperaturmin.Text) ? "0" : tbTemperaturmin.Text); // Huu Duoc
+                        Temperatureshowmax = Convert.ToSingle(String.IsNullOrEmpty(tbTemperaturemax.Text) ? "0" : tbTemperaturemax.Text);
                         if (tempershowt < Temperatureshowmin)
                         {
                             tempershowt = Temperatureshowmin;
@@ -3179,8 +3179,8 @@ namespace WaferProject
                             int startx = pixheight * (j);
                             Double Redcolorval;
                             Double tempershowt;
-                            Temperatureshowmin = Convert.ToSingle(tbTemperaturmin.Text); // Huu Duoc
-                            Temperatureshowmax = Convert.ToSingle(tbTemperaturemax.Text);
+                            Temperatureshowmin = Convert.ToSingle(String.IsNullOrEmpty(tbTemperaturmin.Text) ? "0" : tbTemperaturmin.Text); // Huu Duoc
+                            Temperatureshowmax = Convert.ToSingle(String.IsNullOrEmpty(tbTemperaturemax.Text) ? "0" : tbTemperaturemax.Text);
                             tempershowt = IRimage32x32[pixidx];
                             if (tempershowt < Temperatureshowmin)
                             {
