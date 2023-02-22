@@ -1,0 +1,64 @@
+C:\Users\dvthan\Desktop\WaferProject\Computer\WaferProject\WaferProject\bin\Debug\WaferProject.exe
+C:\Users\dvthan\Desktop\WaferProject\Computer\WaferProject\WaferProject\bin\Debug\WaferProject.pdb
+C:\Users\dvthan\Desktop\WaferProject\Computer\WaferProject\WaferProject\obj\x86\Debug\WaferProject.Form1.resources
+C:\Users\dvthan\Desktop\WaferProject\Computer\WaferProject\WaferProject\obj\x86\Debug\WaferProject.Properties.Resources.resources
+C:\Users\dvthan\Desktop\WaferProject\Computer\WaferProject\WaferProject\obj\x86\Debug\WaferProject.csproj.GenerateResource.Cache
+C:\Users\dvthan\Desktop\WaferProject\Computer\WaferProject\WaferProject\obj\x86\Debug\WaferProject.exe
+C:\Users\dvthan\Desktop\WaferProject\Computer\WaferProject\WaferProject\obj\x86\Debug\WaferProject.pdb
+C:\Users\Administrator\Desktop\WaferProject\Computer\WaferProject\WaferProject\obj\x86\Debug\WaferProject.exe
+C:\Users\Administrator\Desktop\WaferProject\Computer\WaferProject\WaferProject\obj\x86\Debug\WaferProject.pdb
+C:\Users\Administrator\Desktop\WaferProject\Computer\WaferProject\WaferProject\bin\Debug\WaferProject.exe
+C:\Users\Administrator\Desktop\WaferProject\Computer\WaferProject\WaferProject\bin\Debug\WaferProject.pdb
+C:\Users\Administrator\Desktop\WaferProject\Computer\WaferProject\WaferProject\obj\x86\Debug\WaferProject.Form1.resources
+C:\Users\Administrator\Desktop\WaferProject\Computer\WaferProject\WaferProject\obj\x86\Debug\WaferProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\WaferProject\Computer\WaferProject\WaferProject\obj\x86\Debug\WaferProject.csproj.GenerateResource.Cache
+C:\Users\dvthan\Desktop\WaferProject\Computer\WaferProject\WaferProject\obj\x86\Debug\WaferProject.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Computer\WaferProject\WaferProject\obj\x86\Debug\WaferProject.exe
+C:\Users\Administrator\Desktop\Computer\WaferProject\WaferProject\obj\x86\Debug\WaferProject.pdb
+C:\Users\Administrator\Desktop\Computer\WaferProject\WaferProject\bin\Debug\WaferProject.exe
+C:\Users\Administrator\Desktop\Computer\WaferProject\WaferProject\bin\Debug\WaferProject.pdb
+C:\Users\Administrator\Desktop\Computer\WaferProject\WaferProject\obj\x86\Debug\WaferProject.Form1.resources
+C:\Users\Administrator\Desktop\Computer\WaferProject\WaferProject\obj\x86\Debug\WaferProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Computer\WaferProject\WaferProject\obj\x86\Debug\WaferProject.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Computer\WaferProject\WaferProject\obj\x86\Debug\WaferProject.csprojResolveAssemblyReference.cache
+C:\Users\dvthan\Desktop\Wafer sensor project\Computer\WaferProject\WaferProject\bin\Debug\WaferProject.exe
+C:\Users\dvthan\Desktop\Wafer sensor project\Computer\WaferProject\WaferProject\bin\Debug\WaferProject.pdb
+C:\Users\dvthan\Desktop\Wafer sensor project\Computer\WaferProject\WaferProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dvthan\Desktop\Wafer sensor project\Computer\WaferProject\WaferProject\obj\x86\Debug\WaferProject.Form1.resources
+C:\Users\dvthan\Desktop\Wafer sensor project\Computer\WaferProject\WaferProject\obj\x86\Debug\WaferProject.Properties.Resources.resources
+C:\Users\dvthan\Desktop\Wafer sensor project\Computer\WaferProject\WaferProject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dvthan\Desktop\Wafer sensor project\Computer\WaferProject\WaferProject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dvthan\Desktop\Wafer sensor project\Computer\WaferProject\WaferProject\obj\x86\Debug\WaferProject.exe
+C:\Users\dvthan\Desktop\Wafer sensor project\Computer\WaferProject\WaferProject\obj\x86\Debug\WaferProject.pdb
+C:\Users\Administrator\Desktop\Project report\Wafer sensor project-FFT-filter\Wafer sensor project-FFT-filter\Computer\WaferProject\WaferProject\obj\x86\Debug\WaferProject.exe
+C:\Users\Administrator\Desktop\Project report\Wafer sensor project-FFT-filter\Wafer sensor project-FFT-filter\Computer\WaferProject\WaferProject\obj\x86\Debug\WaferProject.pdb
+C:\Users\Administrator\Desktop\Project report\Wafer sensor project-FFT-filter\Wafer sensor project-FFT-filter\Computer\WaferProject\WaferProject\bin\Debug\WaferProject.exe
+C:\Users\Administrator\Desktop\Project report\Wafer sensor project-FFT-filter\Wafer sensor project-FFT-filter\Computer\WaferProject\WaferProject\bin\Debug\WaferProject.pdb
+C:\Users\Administrator\Desktop\Project report\Wafer sensor project-FFT-filter\Wafer sensor project-FFT-filter\Computer\WaferProject\WaferProject\obj\x86\Debug\WaferProject.Form1.resources
+C:\Users\Administrator\Desktop\Project report\Wafer sensor project-FFT-filter\Wafer sensor project-FFT-filter\Computer\WaferProject\WaferProject\obj\x86\Debug\WaferProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Project report\Wafer sensor project-FFT-filter\Wafer sensor project-FFT-filter\Computer\WaferProject\WaferProject\obj\x86\Debug\WaferProject.csproj.GenerateResource.Cache
+G:\Project report\Wafer sensor project-FFT-filter\Wafer sensor project-FFT-filter\Computer\WaferProject\WaferProject\obj\x86\Debug\WaferProject.exe
+G:\Project report\Wafer sensor project-FFT-filter\Wafer sensor project-FFT-filter\Computer\WaferProject\WaferProject\bin\Debug\WaferProject.exe
+G:\Project report\Wafer sensor project-FFT-filter\Wafer sensor project-FFT-filter\Computer\WaferProject\WaferProject\bin\Debug\WaferProject.pdb
+G:\Project report\Wafer sensor project-FFT-filter\Wafer sensor project-FFT-filter\Computer\WaferProject\WaferProject\obj\x86\Debug\WaferProject.Form1.resources
+G:\Project report\Wafer sensor project-FFT-filter\Wafer sensor project-FFT-filter\Computer\WaferProject\WaferProject\obj\x86\Debug\WaferProject.Properties.Resources.resources
+G:\Project report\Wafer sensor project-FFT-filter\Wafer sensor project-FFT-filter\Computer\WaferProject\WaferProject\obj\x86\Debug\WaferProject.csproj.GenerateResource.Cache
+G:\Project report\Wafer sensor project-FFT-filter\Wafer sensor project-FFT-filter\Computer\WaferProject\WaferProject\obj\x86\Debug\WaferProject.pdb
+C:\Users\dvthan\Desktop\Working\Computer\WaferProject\WaferProject\bin\Debug\WaferProject.exe
+C:\Users\dvthan\Desktop\Working\Computer\WaferProject\WaferProject\bin\Debug\WaferProject.pdb
+C:\Users\dvthan\Desktop\Working\Computer\WaferProject\WaferProject\obj\x86\Debug\WaferProject.csprojResolveAssemblyReference.cache
+C:\Users\dvthan\Desktop\Working\Computer\WaferProject\WaferProject\obj\x86\Debug\WaferProject.Form1.resources
+C:\Users\dvthan\Desktop\Working\Computer\WaferProject\WaferProject\obj\x86\Debug\WaferProject.Properties.Resources.resources
+C:\Users\dvthan\Desktop\Working\Computer\WaferProject\WaferProject\obj\x86\Debug\WaferProject.csproj.GenerateResource.Cache
+C:\Users\dvthan\Desktop\Working\Computer\WaferProject\WaferProject\obj\x86\Debug\WaferProject.exe
+C:\Users\dvthan\Desktop\Working\Computer\WaferProject\WaferProject\obj\x86\Debug\WaferProject.pdb
+C:\Users\dvthan\Desktop\Working\Computer\WaferProject\WaferProject\obj\x86\Debug\WaferProject.Passwordform.resources
+C:\Users\dvthan\Desktop\loadcell\WaferProject\WaferProject\obj\x86\Debug\WaferProject.exe
+C:\Users\dvthan\Desktop\loadcell\WaferProject\WaferProject\obj\x86\Debug\WaferProject.pdb
+C:\Users\dvthan\Desktop\loadcell\WaferProject\WaferProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dvthan\Desktop\loadcell\WaferProject\WaferProject\obj\x86\Debug\WaferProject.Form1.resources
+C:\Users\dvthan\Desktop\loadcell\WaferProject\WaferProject\obj\x86\Debug\WaferProject.Properties.Resources.resources
+C:\Users\dvthan\Desktop\loadcell\WaferProject\WaferProject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dvthan\Desktop\loadcell\WaferProject\WaferProject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dvthan\Desktop\loadcell\WaferProject\WaferProject\bin\Debug\WaferProject.exe
+C:\Users\dvthan\Desktop\loadcell\WaferProject\WaferProject\bin\Debug\WaferProject.pdb

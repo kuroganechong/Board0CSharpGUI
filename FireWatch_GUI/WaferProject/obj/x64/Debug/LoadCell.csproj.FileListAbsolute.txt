@@ -1,0 +1,17 @@
+C:\Users\dvthan\Desktop\loadcell\WaferProject\WaferProject\bin\x64\Debug\WaferProject.exe
+C:\Users\dvthan\Desktop\loadcell\WaferProject\WaferProject\bin\x64\Debug\WaferProject.pdb
+C:\Users\dvthan\Desktop\loadcell\WaferProject\WaferProject\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Users\dvthan\Desktop\loadcell\WaferProject\WaferProject\obj\x64\Debug\WaferProject.Form1.resources
+C:\Users\dvthan\Desktop\loadcell\WaferProject\WaferProject\obj\x64\Debug\WaferProject.Properties.Resources.resources
+C:\Users\dvthan\Desktop\loadcell\WaferProject\WaferProject\obj\x64\Debug\GenerateResource.read.1.tlog
+C:\Users\dvthan\Desktop\loadcell\WaferProject\WaferProject\obj\x64\Debug\GenerateResource.write.1.tlog
+C:\Users\dvthan\Desktop\loadcell\WaferProject\WaferProject\obj\x64\Debug\WaferProject.exe
+C:\Users\dvthan\Desktop\loadcell\WaferProject\WaferProject\obj\x64\Debug\WaferProject.pdb
+D:\WirelessSensorProj\WSP06Nov\WaferProject\WaferProject\obj\x64\Debug\WaferProject.exe
+D:\WirelessSensorProj\WSP06Nov\WaferProject\WaferProject\obj\x64\Debug\WaferProject.pdb
+D:\WirelessSensorProj\WSP06Nov\WaferProject\WaferProject\bin\x64\Debug\WaferProject.exe
+D:\WirelessSensorProj\WSP06Nov\WaferProject\WaferProject\bin\x64\Debug\WaferProject.pdb
+D:\WirelessSensorProj\WSP06Nov\WaferProject\WaferProject\obj\x64\Debug\LoadCell.csprojResolveAssemblyReference.cache
+D:\WirelessSensorProj\WSP06Nov\WaferProject\WaferProject\obj\x64\Debug\WaferProject.Form1.resources
+D:\WirelessSensorProj\WSP06Nov\WaferProject\WaferProject\obj\x64\Debug\WaferProject.Properties.Resources.resources
+D:\WirelessSensorProj\WSP06Nov\WaferProject\WaferProject\obj\x64\Debug\LoadCell.csproj.GenerateResource.Cache

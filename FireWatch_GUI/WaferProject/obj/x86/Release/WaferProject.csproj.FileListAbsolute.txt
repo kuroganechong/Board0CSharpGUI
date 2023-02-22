@@ -1,0 +1,48 @@
+C:\Users\Administrator\Desktop\Computer\WaferProject\WaferProject\bin\Release\WaferProject.exe
+C:\Users\Administrator\Desktop\Computer\WaferProject\WaferProject\bin\Release\WaferProject.pdb
+C:\Users\Administrator\Desktop\Computer\WaferProject\WaferProject\obj\x86\Release\WaferProject.Form1.resources
+C:\Users\Administrator\Desktop\Computer\WaferProject\WaferProject\obj\x86\Release\WaferProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Computer\WaferProject\WaferProject\obj\x86\Release\WaferProject.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Computer\WaferProject\WaferProject\obj\x86\Release\WaferProject.exe
+C:\Users\Administrator\Desktop\Computer\WaferProject\WaferProject\obj\x86\Release\WaferProject.pdb
+C:\Users\Administrator\Desktop\Computer\WaferProject\WaferProject\obj\x86\Release\WaferProject.csprojResolveAssemblyReference.cache
+C:\Users\dvthan\Desktop\Wafer sensor project\Computer\WaferProject\WaferProject\obj\x86\Release\WaferProject.exe
+C:\Users\dvthan\Desktop\Wafer sensor project\Computer\WaferProject\WaferProject\obj\x86\Release\WaferProject.pdb
+C:\Users\dvthan\Desktop\Wafer sensor project\Computer\WaferProject\WaferProject\bin\Release\WaferProject.exe
+C:\Users\dvthan\Desktop\Wafer sensor project\Computer\WaferProject\WaferProject\bin\Release\WaferProject.pdb
+C:\Users\dvthan\Desktop\Wafer sensor project\Computer\WaferProject\WaferProject\obj\x86\Release\WaferProject.Form1.resources
+C:\Users\dvthan\Desktop\Wafer sensor project\Computer\WaferProject\WaferProject\obj\x86\Release\WaferProject.Properties.Resources.resources
+C:\Users\dvthan\Desktop\Wafer sensor project\Computer\WaferProject\WaferProject\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\dvthan\Desktop\Wafer sensor project\Computer\WaferProject\WaferProject\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\dvthan\Desktop\Wafer sensor project\Computer\WaferProject\WaferProject\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\Project report\Wafer sensor project-FFT-filter\Wafer sensor project-FFT-filter\Computer\WaferProject\WaferProject\obj\x86\Release\WaferProject.exe
+C:\Users\Administrator\Desktop\Project report\Wafer sensor project-FFT-filter\Wafer sensor project-FFT-filter\Computer\WaferProject\WaferProject\obj\x86\Release\WaferProject.pdb
+C:\Users\Administrator\Desktop\Project report\Wafer sensor project-FFT-filter\Wafer sensor project-FFT-filter\Computer\WaferProject\WaferProject\obj\x86\Release\WaferProject.Form1.resources
+C:\Users\Administrator\Desktop\Project report\Wafer sensor project-FFT-filter\Wafer sensor project-FFT-filter\Computer\WaferProject\WaferProject\obj\x86\Release\WaferProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Project report\Wafer sensor project-FFT-filter\Wafer sensor project-FFT-filter\Computer\WaferProject\WaferProject\obj\x86\Release\WaferProject.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Project report\Wafer sensor project-FFT-filter\Wafer sensor project-FFT-filter\Computer\WaferProject\WaferProject\bin\Release\WaferProject.exe
+C:\Users\Administrator\Desktop\Project report\Wafer sensor project-FFT-filter\Wafer sensor project-FFT-filter\Computer\WaferProject\WaferProject\bin\Release\WaferProject.pdb
+G:\Project report\Wafer sensor project-FFT-filter\Wafer sensor project-FFT-filter\Computer\WaferProject\WaferProject\obj\x86\Release\WaferProject.exe
+G:\Project report\Wafer sensor project-FFT-filter\Wafer sensor project-FFT-filter\Computer\WaferProject\WaferProject\obj\x86\Release\WaferProject.pdb
+G:\Project report\Wafer sensor project-FFT-filter\Wafer sensor project-FFT-filter\Computer\WaferProject\WaferProject\bin\Release\WaferProject.exe
+G:\Project report\Wafer sensor project-FFT-filter\Wafer sensor project-FFT-filter\Computer\WaferProject\WaferProject\bin\Release\WaferProject.pdb
+G:\Project report\Wafer sensor project-FFT-filter\Wafer sensor project-FFT-filter\Computer\WaferProject\WaferProject\obj\x86\Release\WaferProject.Form1.resources
+G:\Project report\Wafer sensor project-FFT-filter\Wafer sensor project-FFT-filter\Computer\WaferProject\WaferProject\obj\x86\Release\WaferProject.Properties.Resources.resources
+G:\Project report\Wafer sensor project-FFT-filter\Wafer sensor project-FFT-filter\Computer\WaferProject\WaferProject\obj\x86\Release\WaferProject.csproj.GenerateResource.Cache
+C:\Users\dvthan\Desktop\Working\Computer\WaferProject\WaferProject\obj\x86\Release\WaferProject.exe
+C:\Users\dvthan\Desktop\Working\Computer\WaferProject\WaferProject\obj\x86\Release\WaferProject.pdb
+C:\Users\dvthan\Desktop\Working\Computer\WaferProject\WaferProject\bin\Release\WaferProject.exe
+C:\Users\dvthan\Desktop\Working\Computer\WaferProject\WaferProject\bin\Release\WaferProject.pdb
+C:\Users\dvthan\Desktop\Working\Computer\WaferProject\WaferProject\obj\x86\Release\WaferProject.Form1.resources
+C:\Users\dvthan\Desktop\Working\Computer\WaferProject\WaferProject\obj\x86\Release\WaferProject.Properties.Resources.resources
+C:\Users\dvthan\Desktop\Working\Computer\WaferProject\WaferProject\obj\x86\Release\WaferProject.csproj.GenerateResource.Cache
+C:\Users\dvthan\Desktop\Working\Computer\WaferProject\WaferProject\obj\x86\Release\WaferProject.Passwordform.resources
+C:\Users\dvthan\Desktop\loadcell\WaferProject\WaferProject\bin\Release\WaferProject.exe
+C:\Users\dvthan\Desktop\loadcell\WaferProject\WaferProject\bin\Release\WaferProject.pdb
+C:\Users\dvthan\Desktop\loadcell\WaferProject\WaferProject\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\dvthan\Desktop\loadcell\WaferProject\WaferProject\obj\x86\Release\WaferProject.Form1.resources
+C:\Users\dvthan\Desktop\loadcell\WaferProject\WaferProject\obj\x86\Release\WaferProject.Properties.Resources.resources
+C:\Users\dvthan\Desktop\loadcell\WaferProject\WaferProject\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\dvthan\Desktop\loadcell\WaferProject\WaferProject\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\dvthan\Desktop\loadcell\WaferProject\WaferProject\obj\x86\Release\WaferProject.exe
+C:\Users\dvthan\Desktop\loadcell\WaferProject\WaferProject\obj\x86\Release\WaferProject.pdb

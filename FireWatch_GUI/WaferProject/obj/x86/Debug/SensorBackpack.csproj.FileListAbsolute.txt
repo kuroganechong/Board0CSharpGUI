@@ -1,0 +1,73 @@
+D:\WirelessSensorProj\WSP29Jan\SensorBackpack_Win\WaferProject\obj\x86\Debug\WaferProject.exe
+D:\WirelessSensorProj\WSP29Jan\SensorBackpack_Win\WaferProject\obj\x86\Debug\WaferProject.pdb
+D:\WirelessSensorProj\WSP29Jan\SensorBackpack_Win\WaferProject\bin\Debug\WaferProject.exe
+D:\WirelessSensorProj\WSP29Jan\SensorBackpack_Win\WaferProject\bin\Debug\WaferProject.pdb
+D:\WirelessSensorProj\WSP29Jan\SensorBackpack_Win\WaferProject\obj\x86\Debug\WaferProject.Form1.resources
+D:\WirelessSensorProj\WSP29Jan\SensorBackpack_Win\WaferProject\obj\x86\Debug\WaferProject.Properties.Resources.resources
+D:\WirelessSensorProj\WSP29Jan\SensorBackpack_Win\WaferProject\obj\x86\Debug\SensorBackpack.csproj.GenerateResource.Cache
+D:\WirelessSensorProj\WSP29Jan\SensorBackpack_Win\WaferProject\obj\x86\Debug\SensorBackpack.csprojResolveAssemblyReference.cache
+C:\Users\dvthan\Documents\BostonProject\Windows inteface\SensorMSP432\WaferProject\bin\Debug\WaferProject.exe
+C:\Users\dvthan\Documents\BostonProject\Windows inteface\SensorMSP432\WaferProject\bin\Debug\WaferProject.pdb
+C:\Users\dvthan\Documents\BostonProject\Windows inteface\SensorMSP432\WaferProject\bin\Debug\SlimDX.dll
+C:\Users\dvthan\Documents\BostonProject\Windows inteface\SensorMSP432\WaferProject\bin\Debug\SlimDX.pdb
+C:\Users\dvthan\Documents\BostonProject\Windows inteface\SensorMSP432\WaferProject\bin\Debug\SlimDX.xml
+C:\Users\dvthan\Documents\BostonProject\Windows inteface\SensorMSP432\WaferProject\obj\x86\Debug\SensorBackpack.csprojResolveAssemblyReference.cache
+C:\Users\dvthan\Documents\BostonProject\Windows inteface\SensorMSP432\WaferProject\obj\x86\Debug\WaferProject.Form1.resources
+C:\Users\dvthan\Documents\BostonProject\Windows inteface\SensorMSP432\WaferProject\obj\x86\Debug\WaferProject.Properties.Resources.resources
+C:\Users\dvthan\Documents\BostonProject\Windows inteface\SensorMSP432\WaferProject\obj\x86\Debug\SensorBackpack.csproj.GenerateResource.cache
+C:\Users\dvthan\Documents\BostonProject\Windows inteface\SensorMSP432\WaferProject\obj\x86\Debug\SensorBackpack.csproj.CoreCompileInputs.cache
+C:\Users\dvthan\Documents\BostonProject\Windows inteface\SensorMSP432\WaferProject\obj\x86\Debug\SensorBackpack.csproj.CopyComplete
+C:\Users\dvthan\Documents\BostonProject\Windows inteface\SensorMSP432\WaferProject\obj\x86\Debug\WaferProject.exe
+C:\Users\dvthan\Documents\BostonProject\Windows inteface\SensorMSP432\WaferProject\obj\x86\Debug\WaferProject.pdb
+C:\Users\dvthan\Documents\BostonProject\Windows inteface\SensorMSP432-HV\WaferProject\bin\Debug\WaferProject.exe
+C:\Users\dvthan\Documents\BostonProject\Windows inteface\SensorMSP432-HV\WaferProject\bin\Debug\WaferProject.pdb
+C:\Users\dvthan\Documents\BostonProject\Windows inteface\SensorMSP432-HV\WaferProject\bin\Debug\SlimDX.dll
+C:\Users\dvthan\Documents\BostonProject\Windows inteface\SensorMSP432-HV\WaferProject\bin\Debug\SlimDX.pdb
+C:\Users\dvthan\Documents\BostonProject\Windows inteface\SensorMSP432-HV\WaferProject\bin\Debug\SlimDX.xml
+C:\Users\dvthan\Documents\BostonProject\Windows inteface\SensorMSP432-HV\WaferProject\obj\x86\Debug\SensorBackpack.csprojResolveAssemblyReference.cache
+C:\Users\dvthan\Documents\BostonProject\Windows inteface\SensorMSP432-HV\WaferProject\obj\x86\Debug\WaferProject.Form1.resources
+C:\Users\dvthan\Documents\BostonProject\Windows inteface\SensorMSP432-HV\WaferProject\obj\x86\Debug\WaferProject.Properties.Resources.resources
+C:\Users\dvthan\Documents\BostonProject\Windows inteface\SensorMSP432-HV\WaferProject\obj\x86\Debug\SensorBackpack.csproj.GenerateResource.cache
+C:\Users\dvthan\Documents\BostonProject\Windows inteface\SensorMSP432-HV\WaferProject\obj\x86\Debug\SensorBackpack.csproj.CoreCompileInputs.cache
+C:\Users\dvthan\Documents\BostonProject\Windows inteface\SensorMSP432-HV\WaferProject\obj\x86\Debug\SensorBackpack.csproj.CopyComplete
+C:\Users\dvthan\Documents\BostonProject\Windows inteface\SensorMSP432-HV\WaferProject\obj\x86\Debug\WaferProject.exe
+C:\Users\dvthan\Documents\BostonProject\Windows inteface\SensorMSP432-HV\WaferProject\obj\x86\Debug\WaferProject.pdb
+C:\BostonProject\Windows inteface\SensorMSP432-HV\WaferProject\bin\Debug\WaferProject.exe
+C:\BostonProject\Windows inteface\SensorMSP432-HV\WaferProject\bin\Debug\WaferProject.pdb
+C:\BostonProject\Windows inteface\SensorMSP432-HV\WaferProject\bin\Debug\SlimDX.dll
+C:\BostonProject\Windows inteface\SensorMSP432-HV\WaferProject\bin\Debug\SlimDX.pdb
+C:\BostonProject\Windows inteface\SensorMSP432-HV\WaferProject\bin\Debug\SlimDX.xml
+C:\BostonProject\Windows inteface\SensorMSP432-HV\WaferProject\obj\x86\Debug\SensorBackpack.csprojResolveAssemblyReference.cache
+C:\BostonProject\Windows inteface\SensorMSP432-HV\WaferProject\obj\x86\Debug\WaferProject.Form1.resources
+C:\BostonProject\Windows inteface\SensorMSP432-HV\WaferProject\obj\x86\Debug\WaferProject.Properties.Resources.resources
+C:\BostonProject\Windows inteface\SensorMSP432-HV\WaferProject\obj\x86\Debug\SensorBackpack.csproj.GenerateResource.cache
+C:\BostonProject\Windows inteface\SensorMSP432-HV\WaferProject\obj\x86\Debug\SensorBackpack.csproj.CoreCompileInputs.cache
+C:\BostonProject\Windows inteface\SensorMSP432-HV\WaferProject\obj\x86\Debug\SensorBackpack.csproj.CopyComplete
+C:\BostonProject\Windows inteface\SensorMSP432-HV\WaferProject\obj\x86\Debug\WaferProject.exe
+C:\BostonProject\Windows inteface\SensorMSP432-HV\WaferProject\obj\x86\Debug\WaferProject.pdb
+C:\BostonProject\Windows inteface\SensorMSP432-HV-TestOutdoor\WaferProject\bin\Debug\WaferProject.exe
+C:\BostonProject\Windows inteface\SensorMSP432-HV-TestOutdoor\WaferProject\bin\Debug\SlimDX.dll
+C:\BostonProject\Windows inteface\SensorMSP432-HV-TestOutdoor\WaferProject\bin\Debug\SlimDX.pdb
+C:\BostonProject\Windows inteface\SensorMSP432-HV-TestOutdoor\WaferProject\bin\Debug\SlimDX.xml
+C:\BostonProject\Windows inteface\SensorMSP432-HV-TestOutdoor\WaferProject\obj\x86\Debug\SensorBackpack.csprojResolveAssemblyReference.cache
+C:\BostonProject\Windows inteface\SensorMSP432-HV-TestOutdoor\WaferProject\obj\x86\Debug\WaferProject.Form1.resources
+C:\BostonProject\Windows inteface\SensorMSP432-HV-TestOutdoor\WaferProject\obj\x86\Debug\WaferProject.Properties.Resources.resources
+C:\BostonProject\Windows inteface\SensorMSP432-HV-TestOutdoor\WaferProject\obj\x86\Debug\SensorBackpack.csproj.GenerateResource.cache
+C:\BostonProject\Windows inteface\SensorMSP432-HV-TestOutdoor\WaferProject\obj\x86\Debug\SensorBackpack.csproj.CoreCompileInputs.cache
+C:\BostonProject\Windows inteface\SensorMSP432-HV-TestOutdoor\WaferProject\obj\x86\Debug\SensorBackpack.csproj.CopyComplete
+C:\BostonProject\Windows inteface\SensorMSP432-HV-TestOutdoor\WaferProject\obj\x86\Debug\WaferProject.exe
+C:\BostonProject\Windows inteface\SensorMSP432-HV-TestOutdoor\WaferProject\obj\x86\Debug\WaferProject.pdb
+C:\BostonProject\Windows inteface\SensorMSP432-HV-TestOutdoor\WaferProject\bin\Debug\WaferProject.pdb
+C:\BostonProject\Windows inteface\SensorMSP432-HV-Merged\WaferProject\bin\Debug\WaferProject.exe
+C:\BostonProject\Windows inteface\SensorMSP432-HV-Merged\WaferProject\bin\Debug\WaferProject.pdb
+C:\BostonProject\Windows inteface\SensorMSP432-HV-Merged\WaferProject\bin\Debug\SlimDX.dll
+C:\BostonProject\Windows inteface\SensorMSP432-HV-Merged\WaferProject\bin\Debug\SlimDX.pdb
+C:\BostonProject\Windows inteface\SensorMSP432-HV-Merged\WaferProject\bin\Debug\SlimDX.xml
+C:\BostonProject\Windows inteface\SensorMSP432-HV-Merged\WaferProject\obj\x86\Debug\WaferProject.Form1.resources
+C:\BostonProject\Windows inteface\SensorMSP432-HV-Merged\WaferProject\obj\x86\Debug\WaferProject.Properties.Resources.resources
+C:\BostonProject\Windows inteface\SensorMSP432-HV-Merged\WaferProject\obj\x86\Debug\SensorBackpack.csproj.GenerateResource.cache
+C:\BostonProject\Windows inteface\SensorMSP432-HV-Merged\WaferProject\obj\x86\Debug\SensorBackpack.csproj.CoreCompileInputs.cache
+C:\BostonProject\Windows inteface\SensorMSP432-HV-Merged\WaferProject\obj\x86\Debug\SensorBackpack.csproj.CopyComplete
+C:\BostonProject\Windows inteface\SensorMSP432-HV-Merged\WaferProject\obj\x86\Debug\WaferProject.exe
+C:\BostonProject\Windows inteface\SensorMSP432-HV-Merged\WaferProject\obj\x86\Debug\WaferProject.pdb
+C:\BostonProject\Windows inteface\SensorMSP432-HV-Merged\WaferProject\obj\x86\Debug\SensorBackpack.csprojResolveAssemblyReference.cache

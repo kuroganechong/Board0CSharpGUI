@@ -1,0 +1,9 @@
+				 10"Maximum length of valid light data (%):",
+                                 11"Minimum length of valid light data (%):",
+                                 12"Maximum amplitude of valid light data (%):",
+                                 13"Minimum amplitude of valid light data (%):",
+
+                                 14"Maximum length of valid velocity data (%):",
+                                 15"Minimum length of valid velocity data (%):",
+                                 16"Maximum amplitude of valid velocity data (%):",
+                                 17"Minimum amplitude of valid velocity data (%):",

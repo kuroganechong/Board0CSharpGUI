@@ -1,0 +1,29 @@
+D:\WirelessSensorProj\WSP29Jan\WaferProject\WaferProject\obj\x86\Release\WaferProject.exe
+D:\WirelessSensorProj\WSP29Jan\WaferProject\WaferProject\obj\x86\Release\WaferProject.pdb
+D:\WirelessSensorProj\WSP29Jan\WaferProject\WaferProject\bin\Release\WaferProject.exe
+D:\WirelessSensorProj\WSP29Jan\WaferProject\WaferProject\bin\Release\WaferProject.pdb
+D:\WirelessSensorProj\WSP29Jan\WaferProject\WaferProject\obj\x86\Release\SensorBackpack.csprojResolveAssemblyReference.cache
+D:\WirelessSensorProj\WSP29Jan\WaferProject\WaferProject\obj\x86\Release\WaferProject.Form1.resources
+D:\WirelessSensorProj\WSP29Jan\WaferProject\WaferProject\obj\x86\Release\WaferProject.Properties.Resources.resources
+D:\WirelessSensorProj\WSP29Jan\WaferProject\WaferProject\obj\x86\Release\SensorBackpack.csproj.GenerateResource.Cache
+D:\WirelessSensorProj\WSP29Jan\SensorBackpack_Win\WaferProject\obj\x86\Release\WaferProject.exe
+D:\WirelessSensorProj\WSP29Jan\SensorBackpack_Win\WaferProject\obj\x86\Release\WaferProject.pdb
+D:\WirelessSensorProj\WSP29Jan\SensorBackpack_Win\WaferProject\bin\Release\WaferProject.exe
+D:\WirelessSensorProj\WSP29Jan\SensorBackpack_Win\WaferProject\bin\Release\WaferProject.pdb
+D:\WirelessSensorProj\WSP29Jan\SensorBackpack_Win\WaferProject\obj\x86\Release\SensorBackpack.csprojResolveAssemblyReference.cache
+D:\WirelessSensorProj\WSP29Jan\SensorBackpack_Win\WaferProject\obj\x86\Release\WaferProject.Form1.resources
+D:\WirelessSensorProj\WSP29Jan\SensorBackpack_Win\WaferProject\obj\x86\Release\WaferProject.Properties.Resources.resources
+D:\WirelessSensorProj\WSP29Jan\SensorBackpack_Win\WaferProject\obj\x86\Release\SensorBackpack.csproj.GenerateResource.Cache
+C:\Users\dvthan\Documents\BostonProject\Windows inteface\SensorMSP432\WaferProject\bin\Release\WaferProject.exe
+C:\Users\dvthan\Documents\BostonProject\Windows inteface\SensorMSP432\WaferProject\bin\Release\WaferProject.pdb
+C:\Users\dvthan\Documents\BostonProject\Windows inteface\SensorMSP432\WaferProject\bin\Release\SlimDX.dll
+C:\Users\dvthan\Documents\BostonProject\Windows inteface\SensorMSP432\WaferProject\bin\Release\SlimDX.pdb
+C:\Users\dvthan\Documents\BostonProject\Windows inteface\SensorMSP432\WaferProject\bin\Release\SlimDX.xml
+C:\Users\dvthan\Documents\BostonProject\Windows inteface\SensorMSP432\WaferProject\obj\x86\Release\SensorBackpack.csprojResolveAssemblyReference.cache
+C:\Users\dvthan\Documents\BostonProject\Windows inteface\SensorMSP432\WaferProject\obj\x86\Release\WaferProject.Form1.resources
+C:\Users\dvthan\Documents\BostonProject\Windows inteface\SensorMSP432\WaferProject\obj\x86\Release\WaferProject.Properties.Resources.resources
+C:\Users\dvthan\Documents\BostonProject\Windows inteface\SensorMSP432\WaferProject\obj\x86\Release\SensorBackpack.csproj.GenerateResource.cache
+C:\Users\dvthan\Documents\BostonProject\Windows inteface\SensorMSP432\WaferProject\obj\x86\Release\SensorBackpack.csproj.CoreCompileInputs.cache
+C:\Users\dvthan\Documents\BostonProject\Windows inteface\SensorMSP432\WaferProject\obj\x86\Release\SensorBackpack.csproj.CopyComplete
+C:\Users\dvthan\Documents\BostonProject\Windows inteface\SensorMSP432\WaferProject\obj\x86\Release\WaferProject.exe
+C:\Users\dvthan\Documents\BostonProject\Windows inteface\SensorMSP432\WaferProject\obj\x86\Release\WaferProject.pdb
